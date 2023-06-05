@@ -6,7 +6,7 @@ Este é um projeto Django que demonstra o envio de mensagens através do Django 
 
 ### Como usar
 
-Este projeto consiste em duas partes: uma aplicação Django que envia mensagens e uma aplicação Flask que recebe essas mensagens.
+Este projeto consiste em duas partes: uma aplicação Django que envia mensagens e uma aplicação Flask que recebe essas mensagens.  
 ![image](https://github.com/tiago3186/RabbitMQDemo/assets/132753395/fece711e-db7f-467c-9b29-1b5c1fb0aa56)
 
 
