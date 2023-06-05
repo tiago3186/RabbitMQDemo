@@ -14,7 +14,7 @@ A aplicação Django possui uma rota que renderiza um formulário HTML onde voc�
 A aplicação Flask possui um endpoint que está constantemente ouvindo a fila "messages" no RabbitMQ. Quando uma mensagem é recebida na fila, o Flask a imprime no terminal.  
 ![image](https://github.com/tiago3186/RabbitMQDemo/assets/132753395/55d81ad8-41fe-477c-bc47-7429b80e28ec)
 
-Para que a comunicação entre as aplicações Django e Flask seja estabelecida, é necessário configurar corretamente as variáveis de ambiente no projeto Django. Essas variáveis especificam o host e a porta do RabbitMQ, bem como a URL do endpoint Flask. No momento estão configuradas de um jeito bem básico e que funciona de forma geral.
+Para que a comunicação entre as aplicações Django e Flask seja estabelecida, é necessário configurar corretamente as variáveis de ambiente no projeto Django. Essas variáveis especificam o host e a porta do RabbitMQ, bem como a URL do endpoint Flask. Mas no momento estão configuradas de um jeito bem básico e que funciona de forma geral.
 
 Certifique-se de ter o RabbitMQ em execução localmente antes de executar.
 
