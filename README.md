@@ -18,6 +18,6 @@ Para que a comunicação entre as aplicações Django e Flask seja estabelecida,
 
 Certifique-se de ter o RabbitMQ em execução localmente antes de executar.
 
-Você pode acompanhar no seu localhost:15672 e acessar pelo login e senha padrão guest / guest e ver o status dos envios das mensagens pelos canais padrão e os que você quiser configurar / adicionar:  
+Você pode acompanhar no seu localhost:15672 acessando pelo login e senha padrão guest / guest e ver o status dos envios das mensagens pelos canais padrão e os que você quiser configurar / adicionar:  
 ![image](https://github.com/tiago3186/RabbitMQDemo/assets/132753395/7f3b649d-ef8c-41ea-9e68-572d8953b22f)
 
