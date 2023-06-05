@@ -1,5 +1,5 @@
 ## RabbitMQDemo
-Uma demonstração de mensagaria RabbitMQ
+Uma demonstração de uso do RabbitMQ com Django e Flask em uma pagina HTML.
 
 ### O que é
 Este é um projeto Django que demonstra o envio de mensagens através do Django e o recebimento dessas mensagens pelo Flask usando o RabbitMQ como intermediário. O objetivo é mostrar como enviar mensagens assíncronas de uma aplicação para outra usando uma fila de mensagens.
